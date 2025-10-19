@@ -1,0 +1,22 @@
+# Java-specific files
+*.class
+target/
+bin/
+*.jar.lastUpdated
+*.log
+tmp/
+temp/
+
+# IDE-specific files (uncomment if applicable)
+# .classpath
+# .project
+# .settings/
+# .idea/
+# *.iml
+# *.ipr
+# *.iws
+# nbproject/
+# build/
+
+# VS Code-specific files
+.vscode/
